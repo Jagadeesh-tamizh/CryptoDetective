@@ -3,6 +3,7 @@
 LINK :  https://cryptodetective.netlify.app/
 
 CRYPTO TRACKER is a website to track live value, market capital of various cryptocurrencies.
+You will be able to search currencies and have it display on the browser. Also, the prices will update live whenever you refresh the page. We will get all of the data from a public API. 
 
 
 # API USED
