@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with **CRYTO DETECTIVE**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+CRYPTO TRACKER is a website to track live value, market capital of various cryptocurrencies.
+
+# API USED
+
+### `https://www.coingecko.com/en/api`
 
 ## Available Scripts
 
